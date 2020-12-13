@@ -16,3 +16,11 @@ traveral the URL directory for hidden files
 after gained the user's information, open metasploit to crack the password associate with users. 
 with that information, logging to the webdav server
 uploading the backdoor for persistent attack further.
+
+
+final project ## combination of project #1 and project #2
+the TA team already built up target VMs and elk server VM for log events.
+for what our teams doing, we first gather some information from the target VMs, and starting a attack strategies.
+first, scan for target, then find out open ports. after that, using metasploit for port 22 ssh to gain access.
+john of the rippler for brute force of password.
+after several steps, we find out the flags. 
